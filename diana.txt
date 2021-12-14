@@ -1,0 +1,2 @@
+ECHO ist eingeschaltet (ON).
+Hi group! this is my first file.
