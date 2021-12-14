@@ -1,0 +1,20 @@
+ECHO ist eingeschaltet (ON).
+
+
+This is the street tree data from the register/cadastre.
+
+I downloaded the .GML file from this page: https://suche.transparenz.hamburg.de/dataset/strassenbaumkataster-hamburg16?forceWeb=true
+
+I used the open source program "QGIS", a geographic information system. I dragged and dropped the GML file into the program.
+
+Then the projection has to be selected. A projection is the shape of a map that is to be visualized.
+As you may remember from old atlases, the Earth as a sphere can be "cut up" in various ways to at least project it into a flat 2D map, like any map we look at, such as Google.
+But as in many scientific fields, people have found 1000 different ways to do this, with which they and still annoy us today, and we then have to find the right projection.
+
+The data from the .GML file is in EPSG 25832: ETRS89 / UTM Zone 32N. If we want to make our application work with Google coordinates, we have to use EPSG:3857 WGS 84 / Pseudo-Mercator, which is the projection Google uses. 
+
+The file can then be exported to QGIS under 'Save file', choosing the appropriate projection (EPSG:3857) and a suitable format type (.csv).
+
+Apparently it didn't work with the coordinates though and we have some information in the .csv file, including the streets and house numbers, but not the coordinates.
+
+I will look into this again and hopefully can find out more.
