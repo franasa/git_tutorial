@@ -1,1 +1,5 @@
-# git_tutorial
+# möglicher Text für unsere Website/Projekt 
+
+st.markdown('Hier in Hamburg ist es oft grau und regnerisch - gerade in den Wintermonaten erstrahlt Hamburg nicht immer in herrlichem "Grün" - aber sobald es wieder Sommer ist, legen wir uns auf die schönsten Grünflächen, spazieren unter schönen Bäumen herum oder verabreden uns auf dem Schulhof hinter der Kastanie. Wusstest du, dass Hamburg als die grünste Stadt Deutschlands gilt, gemessen an der Einwohnerzahl? Hamburg hat 114,07 Quadratmeter Grünfläche pro Einwohner und liegt damit weltweit unter den Top Ten (Platz 9). 
+
+Für die Menschen in der Stadt gehören die kleinen und großen Grünflächen, Bäume und Blumen wohl zu unserem Alltag - oft nehmen wir sie nur am Rande wahr, wissen ihre Anwesenheit nicht immer zu schätzen oder sind uns nicht bewusst, welch guten Einfluss sie auf unser Stadtklima haben. Hier auf unserer Website wollen wir mehr Aufmerksamkeit auf die Bäume um uns herum lenken. Einen Moment innehalten und entdecken, welcher Baum dir vor deiner Haustür steht, oder dich auf dem Weg zu deinem Lieblingsrestaurant oder deiner Arbeit begleitet.')
